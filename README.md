@@ -1,2 +1,2 @@
 # flutter-note-app
-flutter not application using provider
+flutter note application using provider
